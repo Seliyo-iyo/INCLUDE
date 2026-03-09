@@ -1,0 +1,12 @@
+Recursos de Ciberseguridad Investigados
+
+Como parte del programa Incluir, dedicado un tiempo a investigar repositorios de GitHub que son referencia en el sector. Estos son los que más me han servido para complementar lo aprendido en las clases:
+
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): Una guía gigante de comandos y tres para saltarse filtros y encontrar vulnerabilidades.
+* [SecLists](https://github.com/danielmiessler/SecLists): Es el repositorio de diccionarios más famoso. Tiene listas de nombres de usuario, contraseñas y directores. Me señor mucho cuando tenemos con pruebas de fuerza bruta.
+* [Impresionante Equipo Azul de Ciberseguridad](https://github.com/fabacab/awesome-cybersecurity-blueteam): Una lista curada de herramientos solo para defensa (Equipo Azul). Muy útil para ver la parte de monitorización y análisis de registros que menciones en el curso.
+
+Guías y Metodologías
+* [Impresionante Equipo Azul de Ciberseguridad](https://github.com/fabacab/awesome-cybersecurity-blueteam): Una lista curada de herramientos solo para defensa (Equipo Azul). Muy útil para ver la parte de monitorización y análisis de registros que menciones en el curso.
+* [El Libro del Conocimiento Secreto](https://github.com/trimstray/the-book-of-secret-knowledge): Este repo me ha encantado porque tiene secciones de comandos de Linux y redes que me vienen genial para no tener que memorizarlo todo.
+* [CCN-CERT (Atenea)](https://atenea.ccn-cert.cni.es/): Aunque su fuerte es la plataforma web, sitio de cerca sus guías de seguridad. Es el referente nacional y lo que nos han recomendado en las sesiones de RootedCON.
